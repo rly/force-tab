@@ -26,6 +26,9 @@ appropriate number of spaces if `editor.softTabs` is enabled.
 Settings for the package include an option to totally disable honoring `editor.softTabs`. There's
 also another command, `force-tab:insert-actual-tab`, that _never_ honors soft tab settings.
 
+**Note:** This fork changes the behavior of the original `force-tab` package to work when you press 
+`tab` and not `shift-tab`.
+
 ---
 
 [MIT][mit] © [lexicalunit][author] et [al][contributors]
