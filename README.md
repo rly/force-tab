@@ -26,8 +26,10 @@ appropriate number of spaces if `editor.softTabs` is enabled.
 Settings for the package include an option to totally disable honoring `editor.softTabs`. There's
 also another command, `force-tab:insert-actual-tab`, that _never_ honors soft tab settings.
 
-**Note:** This fork changes the behavior of the original [`force-tab`](https://atom.io/packages/force-tab)! package to work when you press 
-`tab` and not `shift-tab`. This is not published on Atom, has not been fully tested to work well for all usages of `tab`, and is for personal use.
+**Note:** This fork changes the behavior of the original 
+[`force-tab`](https://atom.io/packages/force-tab) package to work when you press `tab` and not 
+`shift-tab`. This is not published on Atom, has not been fully tested to work well for all usages 
+of `tab`, and is for personal use.
 
 ---
 
